@@ -1,0 +1,12 @@
+
+.map {
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+ 
+    overflow: auto;
+    width: 300px;
+    
+  
+  }
+  
